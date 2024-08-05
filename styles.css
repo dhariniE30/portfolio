@@ -206,19 +206,6 @@ label {
     margin-left: 10px; 
 }
 
-.contact-linkedin > a
-{
-    color: #562f47c9;
-    text-decoration: none;    
-}
-
-.contact-github > a
-{
-    color: #562f47c9;
-    text-decoration: none; 
-}
-
-
 .link-list {
     display: flex;
     gap: 100px;
