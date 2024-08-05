@@ -215,8 +215,9 @@ label {
 .contact-github > a
 {
     color: #562f47c9;
-    text-decoration: none;    
+    text-decoration: none; 
 }
+
 
 .link-list {
     display: flex;
